@@ -22,7 +22,7 @@ let taskArr = [];
 // ===========================Modal======================//
 taskBtn.addEventListener("click", (e) => {
     // Display modal
-    console.log("Clicked on the button")][[=]]
+    console.log("Clicked on the button");
     modalCont.style.display = "flex";
     mainCont.classList.toggle("blur")
 })
